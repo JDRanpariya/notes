@@ -59,3 +59,7 @@ else:
   // O(n^2)
 
 total time will be O(n^2)
+
+# References
+- [Complexity and Big-O Notation](http://pages.cs.wisc.edu/~paton/readings/Complexity/#bigO)
+
