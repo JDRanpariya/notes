@@ -1,0 +1,25 @@
+Direct selections for on-campus interviews.
+Problem solving skills.
+Every coding round will appear a contest.
+
+programming languauge: c, cpp, java
+
+CPP
+
+Brutal Practice
+Dive into the Arena - Give as many contests as possible
+Learn form your Mistakes - Review your questions and bounce back
+Upsolve - Solve unsolved questions from the contest
+    - Read the editorial
+    - Code solution yourself
+Build Competitiveness - Surround yourself with good coders
+
+Platform Details
+
+3 monthly contests
+    - Long Challenge - 10 days
+    - Cookoff - 2.5 hrs
+    - Lunchtime - 3 hrs
+
+
+
