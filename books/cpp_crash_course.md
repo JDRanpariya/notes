@@ -70,6 +70,20 @@ Following line declares an array of 100 int objects
       }`
  - Classes
   > More fully featured types that give you glexibility to pair data and func.
+  - also called POD (Plain-Old-Data Classes)
+  - `struct Book {
+       char name[256];
+       int year;
+       int pages;
+       bool hardcover;
+    }`
+    - You can access members of the var using the dot operator (.)
+        `Book neuromancer;
+         neuromancer.pages=324;
+         printf("%d", neuromancer.pages)`
  - Unions
   > A boutique user-defined type. All members share the same memory location. easy to misuse.
+  - avoid using unions ( causes data corruption easily )
+
+## Fully Featured C++ Classes
 
