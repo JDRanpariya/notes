@@ -26,16 +26,16 @@ Following line declares an array of 100 int objects
 # User-Defined Types
 > types that user can define. There are three broad categories.
  - Enumerations
-  > the values that an enum can take are restricted to a set of possible values.
-  - `enum class Race {Dinan, Teklen, Ivyn, Julian, Aidan};`
-  - that declares an enum class Race that can take one of the 5 values.
-  - To initialize enum var to value use name of type followed by :: and the desired value
+   > the values that an enum can take are restricted to a set of possible values.
+   - `enum class Race {Dinan, Teklen, Ivyn, Julian, Aidan};`
+   - that declares an enum class Race that can take one of the 5 values.
+   - To initialize enum var to value use name of type followed by :: and the desired value
     - `Race langobard_race = Race::Aidan;`
   - Switch Statments
-   > It transfers control to one of several statements depending on the value of a condition, which evaluates to either an integer or enumeration type.
-   > default kyword denotes the default condition.
-   - general syntex
-    `switch (condition) {
+    > It transfers control to one of several statements depending on the value of a condition, which evaluates to either an integer or enumeration type.
+    > default kyword denotes the default condition.
+    - general syntex
+     `switch (condition) {
         case (case-a): {
             // Handle case a here
         } break;
@@ -45,9 +45,9 @@ Following line declares an array of 100 int objects
         default: {
             // Handle default case here
         }
-      }`
+       }`
    - Using switch statement with an Enumeration Classes
-    ` int main(){
+     ` int main(){
         Race race = Race::Dinan;
 
         switch(race) {
@@ -69,21 +69,21 @@ Following line declares an array of 100 int objects
         }
        } `
  - Classes
-  > More fully featured types that give you glexibility to pair data and func.
-  - also called POD (Plain-Old-Data Classes)
-  `struct Book {
+   > More fully featured types that give you glexibility to pair data and func.
+   - also called POD (Plain-Old-Data Classes)
+   `struct Book {
        char name[256];
        int year;
        int pages;
        bool hardcover;
-    }`
-    - You can access members of the var using the dot operator (.)
+     }`
+     - You can access members of the var using the dot operator (.)
         `Book neuromancer;
          neuromancer.pages=324;
          printf("%d", neuromancer.pages)`
  - Unions
-  > A boutique user-defined type. All members share the same memory location. easy to misuse.
-  - avoid using unions ( causes data corruption easily )
+   > A boutique user-defined type. All members share the same memory location. easy to misuse.
+   - avoid using unions ( causes data corruption easily )
 
 ## Fully Featured C++ Classes
 
