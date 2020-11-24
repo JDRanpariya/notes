@@ -1,15 +1,15 @@
 # Arrays
 
 Following line declares an array of 100 int objects
- - int my_array[100];
+ - `int my_array[100];`
 
 ## Array Initialization
- - int array[] = { 1, 2, 3, 4 };
+ - `int array[] = { 1, 2, 3, 4 };`
  - length of the array can be inferred from the no. of elements in the braces at complile time.
  
 ## Accessing Array Elements
  - zero based indexing
- - printf("%d", array[3]); will print 4
+ - `printf("%d", array[3]);` will print 4
 
 ## No. of Elements in Array
  - sizeof(array) will give size in bytes
@@ -27,15 +27,15 @@ Following line declares an array of 100 int objects
 > types that user can define. There are three broad categories.
  - Enumerations
   > the values that an enum can take are restricted to a set of possible values.
-  - enum class Race {Dinan, Teklen, Ivyn, Julian, Aidan};
+  - `enum class Race {Dinan, Teklen, Ivyn, Julian, Aidan};`
   - that declares an enum class Race that can take one of the 5 values.
   - To initialize enum var to value use name of type followed by :: and the desired value
-    - Race langobard_race = Race::Aidan;
+    - `Race langobard_race = Race::Aidan;`
   - Switch Statments
    > It transfers control to one of several statements depending on the value of a condition, which evaluates to either an integer or enumeration type.
    > default kyword denotes the default condition.
    - general syntex
-    - switch (condition) {
+    `switch (condition) {
         case (case-a): {
             // Handle case a here
         } break;
@@ -45,9 +45,9 @@ Following line declares an array of 100 int objects
         default: {
             // Handle default case here
         }
-      }
+      }`
    - Using switch statement with an Enumeration Classes
-    - `int main(){
+    ` int main(){
         Race race = Race::Dinan;
 
         switch(race) {
@@ -67,11 +67,11 @@ Following line declares an array of 100 int objects
             printf("Error: unknown race!");
         }
         }
-      }`
+       } `
  - Classes
   > More fully featured types that give you glexibility to pair data and func.
   - also called POD (Plain-Old-Data Classes)
-  - `struct Book {
+  `struct Book {
        char name[256];
        int year;
        int pages;
