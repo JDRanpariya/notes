@@ -25,3 +25,51 @@ Following line declares an array of 100 int objects
  
 # User-Defined Types
 > types that user can define. There are three broad categories.
+ - Enumerations
+  > the values that an enum can take are restricted to a set of possible values.
+  - enum class Race {Dinan, Teklen, Ivyn, Julian, Aidan};
+  - that declares an enum class Race that can take one of the 5 values.
+  - To initialize enum var to value use name of type followed by :: and the desired value
+    - Race langobard_race = Race::Aidan;
+  - Switch Statments
+   > It transfers control to one of several statements depending on the value of a condition, which evaluates to either an integer or enumeration type.
+   > default kyword denotes the default condition.
+   - general syntex
+    - switch (condition) {
+        case (case-a): {
+            // Handle case a here
+        } break;
+        case (case-b): {
+            // Handle case b here
+        } break;
+        default: {
+            // Handle default case here
+        }
+      }
+   - Using switch statement with an Enumeration Classes
+    - `int main(){
+        Race race = Race::Dinan;
+
+        switch(race) {
+        case Race::Dinan:{
+            printf("you work hard.");
+        } break;
+        case Race::Teklan: {
+            printf("You are very brave");
+        } break;
+        case Race::Ivyn: {
+            printf("You are a great leader.");
+        } break;
+        case Race::Aidan: {
+            printf("What an enigma");
+        } break;
+        default: {
+            printf("Error: unknown race!");
+        }
+        }
+      }`
+ - Classes
+  > More fully featured types that give you glexibility to pair data and func.
+ - Unions
+  > A boutique user-defined type. All members share the same memory location. easy to misuse.
+
