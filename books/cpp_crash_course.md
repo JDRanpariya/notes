@@ -175,3 +175,41 @@ private:
     - usage: flusing network sockets, freeing dynamic objects and releasing file handles
     - If you don’t define a destructor, a default destructor is automatically
       generated. The default destructor’s behavior is to perform no action
+
+# Chapter 3 - REFERENCE TYPES
+> Reference types store the memory addresses of objects.This type enable efficient programming, and many elegant design patterns feature them.
+> Pointers and References along with this, const, and auto
+
+## Pointers
+ > It is a fundamental mechanism used to refer to memory addresses.
+ - * is an address-of operator
+ - declaration: `int* my_ptr;`
+ - format specifier: `%p`
+ - void pointers & std::byte pointers
+
+## Addressing Variables
+ - & is used to get addresse of a variables
+ `#include <cstdio>
+  int main() {
+      int num{};
+      int *num_addr = &num; // num_addr has address of variable num
+  }`
+  - each time you print &num it's value will be different due to ADDRESS SPACE LAYOUT RANDOMIZATION
+
+## Dereferencing Pointers
+ > * is a unary operator that accesses the object to which a pointer refers.
+ - Given an address, you can obtain the object residing there
+ `int main() {
+     *num_addr = 3;
+     printf("Value at num_addr: %d", *num_addr);
+ }`
+ - above will print 3 as we changed value of object residing at address stored in num_addr
+ 
+## Member-of-Pointer Operator
+ - It (->) performs two simultaneous operations:
+   1. It dereference a pointer
+   2. It accesses a member of the pointed-to object
+ `ClockOfTheLongNow clock;
+  ClockOfTheLongNow* clock_ptr = &clock;
+  clock_ptr->set_year(2020); // same as (*clock_ptr).set_year(2020)`
+
