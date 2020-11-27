@@ -213,3 +213,102 @@ private:
   ClockOfTheLongNow* clock_ptr = &clock;
   clock_ptr->set_year(2020); // same as (*clock_ptr).set_year(2020)`
 
+## Pointers and Arrays
+ > Pointers share several characteristic with arrays. Pointers encode location. Arrays encode the location and length of contiguous objects.
+ > Also, array will dacay into pointer. A decayed array loses length info and converts to a pointer to the array's first element.
+ `int key[]{3, 6, 9}
+  int* key_ptr = key; // Points to 3`
+ - Handling Decay // watch some video
+ - Pointer Arithmetic
+     - `key* 2nd_key_ptr = &key[1];
+        key* 2nd_key_ptr = key + 2`
+## Pointers are Dengerous
+ - It's not possible to convert pointer to array
+ ### Buffer Overflows
+  `#include <cstdio>
+   int main() {
+       char lower[] = "abc?e";
+       char upper[] = "ABC?E";
+       char* upper_ptr = upper;  // Equivalent: &upper[0]
+
+       lower[3] = 'd';  // lower now contains a b c d e \0
+       upper_ptr[3] = 'D'; // upper now contains A B C D E \0
+
+       char letter_d = lower[3];  // letter_d equals 'd'
+       char letter_D = upper_ptr[3]; // letter_D equals 'D'
+
+       printf("lower: %s\nupper: %s", lower, upper); 
+
+       lower[7] = 'g';  // Super bad. You must never do this.
+   }
+   lower: abcde x
+   upper: ABCDE
+   The time is 2:14 a.m. Eastern time, August 29th. Skynet is now online.`
+   - Finally, you make a major boo-boo by writing out-of-bounds memory y.
+     By accessing the element at index 7 x, you’ve gone past the storage allotted
+     to lower. No bounds checking occurs; this code compiles without warning.
+     At runtime, you get undefined behavior. Undefined behavior means the
+     C++ language specification doesn’t prescribe what happens, so your program
+     might crash, open a security vulnerability, or spawn an artificial general
+     intelligence
+ - Connection between Breckets and pointer arithmetics
+
+## void Pointers and std::byte Pointers
+ ### void pointers
+  - Sometimes the pointed-to type is irrelevant. In such situations, we use void pointer void*.
+  - void pointers have important restrictions
+    - you can't dereference void* ( bcoz the pointed to type has been erased )
+    - c++ forbids void pointer arithmetic
+
+ ### std::byte pointer
+  - It's used when you want to interact with raw memory at the byte level
+  - i.e. low-level operations like copying raw data between files
+    and memory, encryption, and compression
+  - You can't use void* because bit-wise and arithmetic operations are disabled
+ 
+## nullptr and Boolean Expressions
+ - pointers have special literal value, nullptr
+ - nullptr doesn’t point to anything
+ - pointers have an implicit conversion to bool
+   1. any value that is not nullptr converts implicitly to true
+   2. whereas nullptr converts implicitly to false.
+   3. useful when a function returning a pointer ran successfully
+
+## References
+ > References are safer & more convenient versions of pointers
+ - declared with & operator
+   `ClockOfTheLongNow& clock`
+ - References can't be assigned to null ( easily ) & can't be reseated( or reassigned )
+ - The syntax for dealing in references is much cleaner than for pointers.
+   Rather than using the member-of-pointer and dereference operators, you
+   use references exactly as if they’re of the pointed-to type.
+   `
+   #include <cstdio>
+   struct ClockOfTheLongNow {
+       --snip--
+       
+   };
+   void add_year(ClockOfTheLongNow&u clock) {
+       clock.set_year(clock.get_year() + 1);  // No deref operator needed
+       
+   }
+   int main() {
+       ClockOfTheLongNow clock;
+       printf("The year is %d.\n", clock.get_year()); 
+       add_year(clock);  // Clock is implicitly passed by reference!
+       printf("The year is %d.\n", clock.get_year()); 
+       
+   }
+
+   `
+## Usage of Pointers and References 
+ > Pointers and references are largely interchangeable, but both have tradeoffs.
+   If you must sometimes change your reference type’s value—that is,
+   if you must change what your reference type refers to—you must use a
+   pointer. Many data structures (including forward-linked lists, which are
+   covered in the next section) require that you be able to change a pointer’s
+   value. Because references cannot be reseated and they shouldn’t generally
+   be assigned to nullptr, they’re sometimes not suitable.
+
+ ### Forwarded-Linked Lists: The Cannonical Pointer-Based Data Structure
+
