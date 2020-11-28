@@ -311,4 +311,81 @@ private:
    be assigned to nullptr, they’re sometimes not suitable.
 
  ### Forwarded-Linked Lists: The Cannonical Pointer-Based Data Structure
+  `struct Element {
+      Elemnet* next{}; // -> nullptr
+      void insert_after(Element* new_element) {
+          new_element->next = next;
+          next = new_element;
+      }
+      char prefix[2];
+      short operating_number;
+  };`
 
+ ## Employing References
+   - ??
+
+ ## this Pointers
+  > Within method definitions, you can access the current object using the this pointer
+ `struct Element { 
+         Elemnet* next{}; // -> nullptr
+         void insert_after(Element* new_element) {
+             this->next = next; // done in one line
+         }
+          char prefix[2];
+          short operating_number;
+      };`
+
+ ## const Correctness
+  > const means "I promise not to modify". It prevents unintended modifications of member variables by that class or function.
+  - const Arguments
+    - A const pointer or reference provides you with an efficient mechanism to pass an object into a function for read-only use.
+    ` void petruchio(const char* shrewu) {
+        printf("Fear not, sweet wench, they shall not touch thee, %s.", shrewv);
+        shrew[0] = "K"; w // Compiler error! The shrew cannot be tamed.
+     }`
+     - you can read from shrew but attempting to write to it will result in compiler error
+  - const Methods
+    - Marking a method const communicates that you promise not to modify the current object’s state within the const method
+    `struct ClockOfTheLongNow {
+            --snip--
+            int get_year() const {
+            return year;
+        }
+        private:
+        int year;
+     };`
+  - const Menber Variables
+    - const member variables can't be modified after their initialization
+    - ??
+
+  - Member Initializer Lists
+    - Member initializer lists are the primary mechanism for initializing class members
+    > You should order the member initializers in the same order they appear in the class definition, because their constructors will be called in this order.
+    - ??
+
+ ## auto Type Deduction
+  > As a strongly typed language, C++ affords its compiler a lot of information. When you initialize elements or return from functions, the compiler can divine type information from context. The auto keyword tells the compiler to perform such a divination for you, relieving you from inputting redundant type information
+  ### Initialization with auto
+    > In most cases, the compiler can determine the correct type of an object using the initialization value
+    ` auto the_answer { 42 }; // int
+      auto foot { 12L }; // long
+      auto rootbeer { 5.0F }; // float
+      auto cheeseburger { 10.0 }; // double
+      auto politifact_claims { false }; // bool
+      auto cheese { "string" }; // char[7]`
+
+  ### auto and Reference Types
+   - It's common to add modifiers like &,* and const to auto.
+       `
+       auto year { 2019  }; // int
+       auto& year_ref = year; // int&
+       const auto& year_cref = year; // const int&
+       auto* year_ptr = &year; // int*
+       const auto* year_cptr = &year; // const int*
+
+       `
+
+  ### auto and Code Refactorings
+  - ??
+
+# Chapter 4 - Objects life Cycle
