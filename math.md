@@ -1,3 +1,10 @@
+# Useful Sites
+ - Calculate Mean, Madian, Mode, variance, SD, Quartiles of ungrouped data
+    - [here](http://www.alcula.com/calculators/statistics/dispersion/#gsc.tab=0)
+ - Calculate Mean, Median, Mode, Variance, SD, Quartiles of Grouped data
+    - [here](https://atozmath.com/StatsG.aspx)
+    - [median](https://vrcacademy.com/calculator/mean-median-mode-grouped-data-calculator/)
+ -    
 # Module 1
   - The Word Statistics is derived from Latin word status’ Italian word statista ’German word statistik ’ French word statistique ’ Each of which means a political state.
   - 17th century John Graunt of London (1620 1674), known as the Father of
