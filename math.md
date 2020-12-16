@@ -83,3 +83,18 @@ once.
    - Frequency Polygon
    - Frequency Curves
    - Ogive
+
+# Module 2
+![Intro](https://img.brainkart.com/extra3/gzmI2Cx.jpg)
+![Formula1](https://www.sarthaks.com/?qa=blob&qa_blobid=2642361847477734336)
+![we1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL0hJ5IrWaJRSRvWAKIffVJHVj7OPt72DFGw&usqp=CAU)
+![Harmonicmean](https://image.slidesharecdn.com/harshitsession1-171105085114/95/measures-of-central-tendency-biostatstics-50-638.jpg?cb=1537289816)
+![GeomatricMean](https://image.slidesharecdn.com/harshitsession1-171105085114/95/measures-of-central-tendency-biostatstics-45-638.jpg?cb=1537289816)
+![CombinedMean](https://www.onlinemath4all.com/images/measuresofvariability19.png)
+## Median
+ - ungrouped data 
+   ( N + 1 ) / 2
+ - grouped data
+   ![gmedian](https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_story_73049/image_2019-07-10%2007%3A15%3A50.410147%2B00%3A00)
+![Quartiles](https://image.slidesharecdn.com/christians-140107054346-phpapp02/95/quartile-deviation-3-638.jpg?cb=1389073454)
+
