@@ -1,5 +1,6 @@
 # Useful Sites
  - https://atozmath.com/Menu/StatisticsMenu.aspx
+ - [Practise MCQ's](https://itfeature.com/mcqs-basic-statistics)
  - Calculate Mean, Madian, Mode, variance, SD, Quartiles of ungrouped data
     - [here](http://www.alcula.com/calculators/statistics/dispersion/#gsc.tab=0)
  - Calculate Mean, Median, Mode, Variance, SD, Quartiles of Grouped data
