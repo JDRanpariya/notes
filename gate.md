@@ -10,7 +10,7 @@
   - [ ] [upgrade notes](https://gradeup.co/machine-instructions-and-addressing-modes-i-f93a398a-c593-11e5-9b1e-18aead1f3fc0) | Need 51 revision  | goal 51
   - [ ] [questions](http://gate-exam.in/cs/Syllabus/Computer-Science-Information-Technology/Computer-Organization-Architecture/Machine-Instructions-Addressing-Modes) | 11
   - [ ] Von Neumann Architecture
-       - [x] [article]((https://www.geeksforgeeks.org/computer-organization-von-neumann-architecture/) | Need 100 revision ( 1 each week ) | goal 101
+       - [x] [article](https://www.geeksforgeeks.org/computer-organization-von-neumann-architecture/) | Need 100 revision ( 1 each week ) | goal 101
        - [x] [Sanfoundry](https://www.sanfoundry.com/microcontroller-mcqs-von-newmann-harward-architecture/) | Need 100 revision ( 1 each week ) | goal 101
        
 
