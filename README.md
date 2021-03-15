@@ -77,4 +77,19 @@
   - [ ] [learning quotes](https://wisdomquotes.com/learning-quotes/)
   - [ ] [improve knowledge transfer](https://www.shiftelearning.com/blog/improving-knowledge-transfer)
   - [ ] [best articles on learning](https://www.scotthyoung.com/blog/the-best-articles-on-learning/)
-  - [ ] 
+  - [ ] [could you learn every subject](https://www.scotthyoung.com/blog/)
+  - [ ] [learning to learn](https://hbr.org/2016/03/learning-to-learn)
+  - [ ] [never stop learning](https://99u.adobe.com/articles/29995/never-stop-learning-how-self-education-creates-a-bullet-proof-career)
+  - [ ] [learning memory](https://www.apa.org/science/about/psa/2016/06/learning-memory)
+  - [ ] [the process of learning](https://www.sec-ed.co.uk/best-practice/the-process-of-learning-and-the-implications-for-pedagogy-part-1/)
+  - [ ] [learning process](https://www.lifehack.org/850450/learning-process)
+  - [ ] [10 steps of learning](https://medium.com/constraint-drives-creativity/the-10-step-process-of-learning-how-to-learn-c2af6fa71e3f)
+  - [ ] [understanding the meaning of learning](https://www.yourarticlelibrary.com/education/learning-process-understanding-the-meaning-of-learning-process/6005)
+  - [ ] [redesign your learning process](https://uxdesign.cc/how-to-re-design-your-learning-process-70e1fae7d077)
+  - [ ] [learning process](https://id.pinterest.com/dwiindrapurnomo/learning-process/)
+  - [ ] [self directed learning](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-directed-learning/self-directed-learning-four-step-process)
+  - [ ] [L&D trends](https://www.global-learning-development.com/2019/01/28/ld-trends-round-up-the-10-best-articles-to-stay-up-to-date-with-learning-and-development/)
+  - [ ] [review on how to learn on coursera](https://towardsdatascience.com/the-ultimate-skill-learning-how-to-learn-9e2fabdc7f1e)
+  
+- videos
+  - [ ] [explore youtube](https://www.youtube.com/results?search_query=how+to+learn)
