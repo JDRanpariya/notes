@@ -93,3 +93,30 @@
   
 - videos
   - [ ] [explore youtube](https://www.youtube.com/results?search_query=how+to+learn)
+
+# self-improvment
+- Courses
+  - [ ] [mind vally](https://www.mindvalley.com/)
+  - [ ] [ultimate edge](https://store.tonyrobbins.com/products/ultimate-edge)
+  - [ ] [warrior mindset](https://www.udemy.com/course/the-ultimate-personal-breakthrough-programme-full-version/?ranMID=39197&ranEAID=h3m3pmsCGmo&ranSiteID=h3m3pmsCGmo-uPYTfG3K9WEQDf_QwJVEHQ&LSNPUBID=h3m3pmsCGmo&utm_source=aff-campaign&utm_medium=udemyads)
+  - [ ] [10 udemy courses](https://believeandcreate.com/10-free-personal-growth-courses-that-can-change-your-life/)
+  - [ ] [medium article](https://medium.com/personal-growth/top-rated-personal-development-courses-87c9edb60afd)
+  - [ ] [best selfdev courses](https://coursesity.com/section/personal-development)
+  - [ ] [lifevise ](https://lifevise.com/)
+  - [ ] [james clear](https://jamesclear.com/self-improvement)
+  - [ ] [youtubers](https://blog.feedspot.com/self_improvement_youtube_channels/)
+  - [ ] [75 courses](https://minimalism.co/articles/self-care-bundle-75-courses)
+  - [ ] [the greatcourseplus](https://www.thegreatcoursesplus.com/professional-and-personal-growth)
+  - [ ] [30 best courses](https://digitaldefynd.com/best-udemy-personality-development-courses/)
+  - [ ] [skill share](https://theblissfulmind.com/skillshare-self-care-classes/)
+  - [ ] [linkedIn learn](https://www.lynda.com/Business-tutorials/Being-Best-You-Self-Improvement-Modeling/2817014-2.html)
+
+- books
+  - [ ] [choose yourself](https://www.amazon.com/Choose-Yourself-James-Altucher-ebook/dp/B00CO8D3G4)
+  - [ ] [integral life](https://www.amazon.com/Integral-Life-Practice-21st-Century-Blueprint/dp/1590304675)
+  - [ ] [20 books](https://bookriot.com/personal-development-books/)
+
+- articles
+  - [ ] [self dev](https://lightpdf.com/self-development-websites.html)
+  - [ ] [22 resources](https://www.lifehack.org/articles/lifestyle/22-killer-personal-development-resources.html)
+  - [ ] [60 ways to improve life](https://www.lifehack.org/articles/lifestyle/60-small-ways-to-improve-your-life-in-the-next-100-days.html)
