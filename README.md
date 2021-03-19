@@ -37,10 +37,14 @@
   - [ ] [Limitless: Jim Kwik](https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional/dp/1401958230)
   
 - Courses
-  - [ ] [explore udemy on how to learn](https://www.udemy.com/courses/search/?src=ukw&q=how+to+learn)
-  - [ ] [Learning how to learn coursera](https://www.coursera.org/learn/learning-how-to-learn)
+  - [ ] Learning How to Learn From Video Courses
+  - [ ] Learning how to learn: brain hacks that actually work
+  - [ ] How to Learn and Memorize the Vocabulary of Any Language
+  - [ ] How to Learn any Skill Quickly and Effectively
+  - [ ] The Visual Guide on How Neural Networks Learn from Data
+  - [ ] Best Life Skills to Learn and how to take charge of Life
+  - [ ] [Coursera: Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
   - [ ] [edx: How to learn online](https://www.edx.org/course/how-to-learn-online)
-  - [ ] [20 online learning platforms](https://www.lifehack.org/articles/productivity/20-places-educate-yourself-online-for-free.html)
   
 - Articles
   - [ ] [These 10 Scientific Ways to Learn Anything Faster Could Change Everything You Know About Dramatically Improving Your Memory](https://www.inc.com/jeff-haden/these-10-scientific-ways-to-learn-anything-faster-could-change-everything-you-know-about-dramatically-improving-your-memory.html)
@@ -138,7 +142,7 @@
   - [ ] [goal-setting](https://quickbooost.teachable.com/p/goal-setting)
   - [ ] [Ted](https://www.ted.com/topics/personal+growth)
   - [ ] [Manage the help](https://managementhelp.org/#title10)
-  - [ ] 
+
 
 - books
   - [ ] [21 books for 2021](https://forge.medium.com/21-books-for-a-better-you-in-the-21st-century-8fdd19cb47a3)
