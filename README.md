@@ -3,12 +3,37 @@
 
 # How to Learn
 - Books
-  - [ ] [books-about-studying-and-learning](https://examstudyexpert.com/books-and-guides/books-about-studying-and-learning/)
-  - [ ] [Learning how to learn: For Entrepreneurs](https://www.theceolibrary.com/collection/learning-how-to-learn-books)
-  - [ ] [improvism best books on learning](https://improveism.com/best-books-on-learning/)
-  - [ ] Reddit Threads [1](https://www.reddit.com/r/GetStudying/comments/95ngzv/books_that_you_have_read_on_effective_learning/) [2](https://www.reddit.com/r/selfimprovement/comments/7uvrr9/best_books_on_improving_your_ability_to_learn/) [3](https://www.reddit.com/r/BettermentBookClub/comments/92897s/70_books_on_learning_how_to_learn_30_books_on/) [quora](https://www.quora.com/What-are-the-best-books-on-Learning-How-to-Learn)
+  - [ ] Make It Stick: The Science of Successful Learning
+  - [ ] How We Learn: The Surprising Truth About When, Where, and Why It Happens
+  - [ ] The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life
+  - [ ] The Art of Learning: An Inner Journey to Optimal Performance
+  - [ ] Ultralearning
+  - [ ] Brain Rules – This is like a Cheat Sheet for learning
+  - [ ] Flow – Teaches you how to make learning fun again
+  - [ ] Musashi, by Eiji Yoshikawa
+  - [ ] Sword in the Stone, by T.H. White
+  - [ ] Fluent Forever: How to Learn Any Language Fast and Never Forget It 
+  - [ ] Peak: Secrets from the New Science of Expertise 
+  - [ ] Art, Music, Math, and Just About Everything Else 
+  - [ ] Redirect Changing the stories we live by
+  - [ ] Understanding How We Learn: A Visual Guide
+  - [ ] Moonwalking With Einstein
+  - [ ] A Mind For Numbers
+  - [ ] Learning How To Learn
+  - [ ] Hyperfocus
+  - [ ] The Productivity Project
+  - [ ] The Procrastination Equation
+  - [ ] Switch when Change is hard
+  - [ ] Why We Sleep
+  - [ ] Better Than Before
+  - [ ] The Lazy Genius Way
+  - [ ] Mastery
+  - [ ] The Fifth Discipline: The Art & Practice of The Learning Organization
+  - [ ] The 5 Elements of Effective Thinking.
+  - [ ] Mindset: The New Psychology of Success
+  - [ ] Accelerated Learning Techniques for Students
   - [ ] [70 books on how to learn faster](https://theartofliving.com/ultimate-learning-how-to-learn-reading-list/)
-  - [ ] [11 books that will make you better learner](https://www.inc.com/quora/11-must-read-books-that-will-make-you-a-better-learner.html)
+  - [ ] [35 books on Memory improvement](https://theartofliving.com/best-books-on-memory-improvement/)
   - [ ] [Limitless: Jim Kwik](https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional/dp/1401958230)
   
 - Courses
