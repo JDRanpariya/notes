@@ -117,7 +117,7 @@
   - [ ] [review on how to learn on coursera](https://towardsdatascience.com/the-ultimate-skill-learning-how-to-learn-9e2fabdc7f1e)
   
 - videos
-  - [ ] [explore youtube](https://www.youtube.com/results?search_query=how+to+learn)
+  - [ ] [explore youtube](https://www.youtube.com/results?search_query=how+to+learn )
 
 # self-improvment
 - Courses
