@@ -125,23 +125,28 @@
 
 # self-improvment
 - Courses
-  - [ ] [mind vally](https://www.mindvalley.com/)
-  - [ ] [ultimate edge](https://store.tonyrobbins.com/products/ultimate-edge)
-  - [ ] [warrior mindset](https://www.udemy.com/course/the-ultimate-personal-breakthrough-programme-full-version/?ranMID=39197&ranEAID=h3m3pmsCGmo&ranSiteID=h3m3pmsCGmo-uPYTfG3K9WEQDf_QwJVEHQ&LSNPUBID=h3m3pmsCGmo&utm_source=aff-campaign&utm_medium=udemyads)
-  - [ ] [10 udemy courses](https://believeandcreate.com/10-free-personal-growth-courses-that-can-change-your-life/)
-  - [ ] [medium article](https://medium.com/personal-growth/top-rated-personal-development-courses-87c9edb60afd)
-  - [ ] [best selfdev courses](https://coursesity.com/section/personal-development)
-  - [ ] [lifevise ](https://lifevise.com/)
+  - [ ] [mind vally](https://www.mindvalley.com/) 34 courses
+  - [ ] [Tonny Robins](https://store.tonyrobbins.com/collections/video)
   - [ ] [james clear](https://jamesclear.com/self-improvement)
-  - [ ] [youtubers](https://blog.feedspot.com/self_improvement_youtube_channels/)
   - [ ] [75 courses](https://minimalism.co/articles/self-care-bundle-75-courses)
   - [ ] [the greatcourseplus](https://www.thegreatcoursesplus.com/professional-and-personal-growth)
   - [ ] [30 best courses](https://digitaldefynd.com/best-udemy-personality-development-courses/)
-  - [ ] [skill share](https://theblissfulmind.com/skillshare-self-care-classes/)
+  - [ ] Law of Attraction and Self Hypnosis Effortless Manifestation
+  - [ ] Self Hypnosis Mastery: Hypnosis for Personal Development
+  - [ ] https://www.skillshare.com/browse/time-management
+  - [ ] https://www.skillshare.com/browse/creativity-and-innovation
+  - [ ] https://www.creativelive.com/learning-path/design-for-small-businesses?via=learning-path_4
+  - [ ] https://www.coursera.org/learn/creative-thinking-techniques-and-tools-for-success
+  - [ ] https://www.udemy.com/course/become-a-superlearner-2-speed-reading-memory-accelerated-learning
+  - [ ] https://www.udemy.com/course/become-a-speeddemon-hack-automation-focus-efficiency-to-have-more-time
+  - [ ] https://www.skillshare.com/browse/goal-setting
+  - [ ] https://www.udemy.com/course/neuroplasticity/
+  - [ ] [Self-Care-for-Productivity-Creating-an-Action-Plan-for-Wellness-at-Work](https://www.skillshare.com/classes/Self-Care-for-Productivity-Creating-an-Action-Plan-for-Wellness-at-Work/137518673)
   - [ ] [linkedIn learn](https://www.lynda.com/Business-tutorials/Being-Best-You-Self-Improvement-Modeling/2817014-2.html)
   - [ ] [goal-setting](https://quickbooost.teachable.com/p/goal-setting)
   - [ ] [Ted](https://www.ted.com/topics/personal+growth)
   - [ ] [Manage the help](https://managementhelp.org/#title10)
+  - [ ] [youtubers](https://blog.feedspot.com/self_improvement_youtube_channels/)
 
 
 - books
